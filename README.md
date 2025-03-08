@@ -1,6 +1,4 @@
-# Monday_Group_19_AED_FinalProject
-
-University Management System
+# University Management System
 
 
 Overview
